@@ -123,7 +123,7 @@ section{
 }
 
 .login-form-container{
-    position: fixed;
+    position: center;
     top: -105%; left: 0;
     height: 100%;
     width: 100%;
